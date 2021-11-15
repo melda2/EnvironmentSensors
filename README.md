@@ -30,3 +30,8 @@ The **raw data you acquire from the light, pressure, and temperature sensors usu
 **Pressure and humidity sensors:** The pressure and humidity sensors can be used for finding relative information about the weather at the current location of the device. Used with the temperature sensor, the user could get different information about weather.
 
 **temperature:** This sensor acquires the temperature of the device. This could be used if the device was over heating and needed to be shit down for some reason.
+
+
+##References
+https://developer.android.com/guide/topics/sensors/sensors_environment#kotlin
+https://developer.android.com/guide/topics/sensors/sensors_overview
