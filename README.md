@@ -29,7 +29,7 @@ The **raw data you acquire from the light, pressure, and temperature sensors usu
 
 **Pressure and humidity sensors:** The pressure and humidity sensors can be used for finding relative information about the weather at the current location of the device. Used with the temperature sensor, the user could get different information about weather.
 
-**temperature:** This sensor acquires the temperature of the device. This could be used if the device was over heating and needed to be shit down for some reason.
+**temperature:** This sensor acquires the temperature of the device. This could be used if the device was over heating and needed to be shut down for some reason.
 
 
 ## References
